@@ -1,7 +1,7 @@
-#Exersies1
+#Exercise1
 #This is a comment
 
-#Exersies2
+#Exercise2
 """
 This is a comment
 written in 

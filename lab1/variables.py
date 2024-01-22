@@ -1,27 +1,27 @@
-#Exersies1
+#Exercise1
 carname = "Volvo"
 
-#Exersies2
+#Exercise2
 x = 50
 
-#Exersies3
+#Exercise3
 x = 5
 y = 10
 print(x +y)
 
-#Exersies4
+#Exercise4
 x = 5
 y = 10
 z = x + y
 print(z)
 
-#Exersies5
+#Exercise5
 x,y,z = "Orange", "Banana", "Cherry"
 
-#Exersies6
+#Exercise6
 x = y = z = "Orange"
 
-#Exersies7
+#Exercise7
 def myfunc():
   global x
   x = "fantastic"
