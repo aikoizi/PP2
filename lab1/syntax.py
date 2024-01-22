@@ -1,6 +1,6 @@
-#Exersies1
+#Exercise1
 print ("Hello word")
 
-#Exersies2
+#Exercise2
 if 5 > 2:
  print ("YES")
