@@ -4,9 +4,7 @@ car =	{
   "model": "Mustang",
   "year": 1964
 }
-print(
-car.get("model")
-)
+print(car.get("model"))
 
 #Exercise2
 car =	{
