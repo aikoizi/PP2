@@ -12,5 +12,5 @@ def prime_n(num):
                 continue
     print(num1)
         
-num = [2, 4, 5, 6, 8, 7, 11]
+num = [8, 6 , 7, 4, 9, 3]
 prime_n(num)
