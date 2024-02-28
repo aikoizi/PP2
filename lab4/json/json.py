@@ -1,6 +1,6 @@
 import json 
 
-file=open("meme.json")
+file=open("json")
 data=json.load(file)
 
 print("""Interface Status
